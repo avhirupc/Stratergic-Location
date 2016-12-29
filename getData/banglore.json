@@ -1,0 +1,1287 @@
+{
+    "1450124235286445": {
+        "name": "Saaga Veg",
+        "categories": [
+            "Diner"
+        ],
+        "longitude": 77.57939,
+        "likes": 64,
+        "latitude": 12.98606,
+        "checkins": 1213
+    },
+    "194778707224034": {
+        "name": "Majestic- Kempe Gowda Bus Station.",
+        "categories": [
+            "Transportation Hub",
+            "Business Center",
+            "Food & Beverage"
+        ],
+        "longitude": 77.573017808948,
+        "likes": 2892,
+        "latitude": 12.977411058327,
+        "checkins": 46182
+    },
+    "196178087070159": {
+        "name": "Airlines Hotel",
+        "categories": [
+            "Cafeteria"
+        ],
+        "longitude": 77.599821616022,
+        "likes": 6014,
+        "latitude": 12.972887084759,
+        "checkins": 25543
+    },
+    "213297468696159": {
+        "name": "Brigade Road Bangalore",
+        "categories": [
+            "Street"
+        ],
+        "longitude": 77.580080911411,
+        "likes": 4935,
+        "latitude": 12.956414685274,
+        "checkins": 49871
+    },
+    "866308123450011": {
+        "name": "Colors Kannada",
+        "categories": [
+            "Broadcasting & Media Production Company"
+        ],
+        "longitude": 77.59036105,
+        "likes": 1893,
+        "latitude": 12.98797315,
+        "checkins": 369
+    },
+    "208767639172603": {
+        "name": "Nartaki Theatre",
+        "categories": [
+            "Movie Theater"
+        ],
+        "longitude": 77.576159820806,
+        "likes": 415,
+        "latitude": 12.974379421837,
+        "checkins": 6114
+    },
+    "506264982731657": {
+        "name": "Nelamangala \u0ca8\u0cc6\u0cb2\u0cae\u0c82\u0c97\u0cb2",
+        "categories": [
+            "Landmark & Historical Place"
+        ],
+        "longitude": 77.5833,
+        "likes": 1514,
+        "latitude": 12.9833,
+        "checkins": 21150
+    },
+    "109914815771950": {
+        "name": "Orion Mall",
+        "categories": [
+            "Shopping/Retail",
+            "Movie Theater"
+        ],
+        "longitude": 77.555197271082,
+        "likes": 373434,
+        "latitude": 13.011276051581,
+        "checkins": 464226
+    },
+    "113775508671532": {
+        "name": "Cubbon Park",
+        "categories": [
+            "Home & Garden Store"
+        ],
+        "longitude": 77.6,
+        "likes": 8556,
+        "latitude": 12.97,
+        "checkins": 106520
+    },
+    "126367004072549": {
+        "name": "M G Road, Bangalore",
+        "categories": [
+            "Street",
+            "Landmark & Historical Place"
+        ],
+        "longitude": 77.611885,
+        "likes": 30868,
+        "latitude": 12.973801,
+        "checkins": 178824
+    },
+    "572838549529992": {
+        "name": "The Kabab Studio",
+        "categories": [
+            "Barbecue Restaurant"
+        ],
+        "longitude": 77.57962625,
+        "likes": 7258,
+        "latitude": 12.985330188,
+        "checkins": 409
+    },
+    "430633943680577": {
+        "name": "Tilt Gastro Lounge",
+        "categories": [
+            "Bar & Grill",
+            "Bar",
+            "Musician/Band"
+        ],
+        "longitude": 77.583643322754,
+        "likes": 7332,
+        "latitude": 12.98306999958,
+        "checkins": 16323
+    },
+    "317463093373": {
+        "name": "The Akshaya Patra Foundation",
+        "categories": [
+            "Charity Organization",
+            "Non-Profit Organization"
+        ],
+        "longitude": 77.5833,
+        "likes": 1267065,
+        "latitude": 12.9833,
+        "checkins": 2964
+    },
+    "194431143930176": {
+        "name": "GEMS B School",
+        "categories": [
+            "Education",
+            "College & University"
+        ],
+        "longitude": 77.588829,
+        "likes": 59028,
+        "latitude": 12.9885597,
+        "checkins": 618
+    },
+    "143920112308030": {
+        "name": "Iskcon Bangalore",
+        "categories": [
+            "Hindu Temple",
+            "Religious Organization",
+            "Non-Profit Organization"
+        ],
+        "longitude": 77.551611768888,
+        "likes": 770097,
+        "latitude": 13.010777561338,
+        "checkins": 130998
+    },
+    "136841273003161": {
+        "name": "Bangalore Palace",
+        "categories": [
+            "Architect"
+        ],
+        "longitude": 77.592103,
+        "likes": 6173,
+        "latitude": 12.998529,
+        "checkins": 69362
+    },
+    "153913201336259": {
+        "name": "Fun Cinemas",
+        "categories": [
+            "Performance Art Theatre"
+        ],
+        "longitude": 77.594743659901,
+        "likes": 2141,
+        "latitude": 12.987858515262,
+        "checkins": 45474
+    },
+    "219262958101404": {
+        "name": "The Lalit Ashok",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.582091773158,
+        "likes": 611,
+        "latitude": 12.992040430132,
+        "checkins": 4002
+    },
+    "365821256776780": {
+        "name": "Savanadurga Hill",
+        "categories": [
+            "Mountain"
+        ],
+        "longitude": 77.58721,
+        "likes": 534,
+        "latitude": 12.96643,
+        "checkins": 7446
+    },
+    "151598165195252": {
+        "name": "Barbeque Nation",
+        "categories": [
+            "Indian Restaurant",
+            "Barbecue Restaurant"
+        ],
+        "longitude": 77.560217515298,
+        "likes": 1414,
+        "latitude": 12.982935020662,
+        "checkins": 8262
+    },
+    "349575685176280": {
+        "name": "The Ritz-Carlton, Bangalore",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.601772063398,
+        "likes": 24783,
+        "latitude": 12.967591401143,
+        "checkins": 65577
+    },
+    "1429045847418783": {
+        "name": "Cinepolis Eta Namma Mall",
+        "categories": [
+            "Performance Art Theatre"
+        ],
+        "longitude": 77.561858142911,
+        "likes": 2984,
+        "latitude": 12.965557530532,
+        "checkins": 48513
+    },
+    "139842722702236": {
+        "name": "Vidhana Soudha",
+        "categories": [
+            "Government Organization"
+        ],
+        "longitude": 77.590658,
+        "likes": 3307,
+        "latitude": 12.979693,
+        "checkins": 26909
+    },
+    "135090443188223": {
+        "name": "Bangalore Town Hall",
+        "categories": [
+            "City Hall"
+        ],
+        "longitude": 77.5833,
+        "likes": 829,
+        "latitude": 12.9581,
+        "checkins": 27328
+    },
+    "110892398963357": {
+        "name": "Sree Kanteerava Stadium",
+        "categories": [
+            "Stadium, Arena & Sports Venue"
+        ],
+        "longitude": 77.593469,
+        "likes": 7585,
+        "latitude": 12.969556,
+        "checkins": 63782
+    },
+    "543034845733064": {
+        "name": "JW Marriott Hotel Bengaluru",
+        "categories": [
+            "Hotel",
+            "Food & Beverage",
+            "Spa"
+        ],
+        "longitude": 77.594992903297,
+        "likes": 33082,
+        "latitude": 12.972230739432,
+        "checkins": 86661
+    },
+    "248091628863": {
+        "name": "Mantri Square",
+        "categories": [
+            "Shopping Mall"
+        ],
+        "longitude": 77.571205947729,
+        "likes": 101218,
+        "latitude": 12.991559873358,
+        "checkins": 104897
+    },
+    "727993383941554": {
+        "name": "The Sugar Factory",
+        "categories": [
+            "Dance & Night Club",
+            "Lounge"
+        ],
+        "longitude": 77.58636461292,
+        "likes": 23179,
+        "latitude": 12.990034232373,
+        "checkins": 65489
+    },
+    "488690364580863": {
+        "name": "City Market,Bangalore",
+        "categories": [
+            "Market",
+            "Tour Agency",
+            "Arts & Entertainment"
+        ],
+        "longitude": 77.5833,
+        "likes": 267,
+        "latitude": 12.9833,
+        "checkins": 3240
+    },
+    "457216020995911": {
+        "name": "Banjara Melting Pot",
+        "categories": [
+            "Indian Restaurant"
+        ],
+        "longitude": 77.58854,
+        "likes": 3330,
+        "latitude": 12.99082,
+        "checkins": 3175
+    },
+    "175901739208163": {
+        "name": "OKO, The Lalit Ashok Bangalore",
+        "categories": [
+            "Asian Restaurant",
+            "Lounge"
+        ],
+        "longitude": 77.582488714622,
+        "likes": 2452,
+        "latitude": 12.99217871092,
+        "checkins": 10344
+    },
+    "469727933071709": {
+        "name": "Sea Rock Bar N Restaurant,kumerapark Road,bangalore.",
+        "categories": [
+            "Food & Beverage"
+        ],
+        "longitude": 77.579611412,
+        "likes": 11,
+        "latitude": 12.98659951,
+        "checkins": 263
+    },
+    "139070949537201": {
+        "name": "37th Crescent Hotel",
+        "categories": [
+            "Hotel",
+            "Travel Company",
+            "Travel Agency"
+        ],
+        "longitude": 77.581033044366,
+        "likes": 113,
+        "latitude": 12.984932628938,
+        "checkins": 672
+    },
+    "138903132801430": {
+        "name": "M. Chinnaswamy Stadium",
+        "categories": [
+            "Cricket Ground"
+        ],
+        "longitude": 77.599556,
+        "likes": 91625,
+        "latitude": 12.978806,
+        "checkins": 236978
+    },
+    "110395528984020": {
+        "name": "Bengaluru International Airport",
+        "categories": [
+            "Airport"
+        ],
+        "longitude": 77.70795766235,
+        "likes": 96324,
+        "latitude": 13.200555789889,
+        "checkins": 1551001
+    },
+    "188105521236412": {
+        "name": "Cauvery Theatre",
+        "categories": [
+            "Performance Art Theatre"
+        ],
+        "longitude": 77.583422217912,
+        "likes": 1612,
+        "latitude": 13.002609705338,
+        "checkins": 43497
+    },
+    "190703964689798": {
+        "name": "Avalbetta Hilltop",
+        "categories": [
+            "Mountain"
+        ],
+        "longitude": 77.5833,
+        "likes": 115,
+        "latitude": 12.9833,
+        "checkins": 1838
+    },
+    "586747908117067": {
+        "name": "Turahalli Forest",
+        "categories": [
+            "National Forest"
+        ],
+        "longitude": 77.5833,
+        "likes": 10,
+        "latitude": 12.9833,
+        "checkins": 261
+    },
+    "215087705270171": {
+        "name": "Iskon Temple, Bangaluru",
+        "categories": [
+            "Religious Organization"
+        ],
+        "longitude": 77.551095,
+        "likes": 4765,
+        "latitude": 13.010932,
+        "checkins": 33670
+    },
+    "238669819509596": {
+        "name": "Shivajinagar Chowk",
+        "categories": [
+            "Landmark & Historical Place"
+        ],
+        "longitude": 77.605285122119,
+        "likes": 1059,
+        "latitude": 12.98577401675,
+        "checkins": 15346
+    },
+    "265528423462276": {
+        "name": "Innovative Film City",
+        "categories": [
+            "Amusement & Theme Park",
+            "Mortgage Brokers"
+        ],
+        "longitude": 77.5872879,
+        "likes": 13058,
+        "latitude": 12.96698,
+        "checkins": 81140
+    },
+    "1015364461831338": {
+        "name": "Shangri-La Hotel, Bengaluru",
+        "categories": [
+            "Food & Beverage",
+            "Hotel",
+            "Spa"
+        ],
+        "longitude": 77.588829,
+        "likes": 31378,
+        "latitude": 12.9882898,
+        "checkins": 37813
+    },
+    "235648116555656": {
+        "name": "Cafe Coffee Day",
+        "categories": [
+            "Coffee Shop"
+        ],
+        "longitude": 77.577162722812,
+        "likes": 185,
+        "latitude": 12.988251774273,
+        "checkins": 1095
+    },
+    "1705671879656641": {
+        "name": "Pvr Cinemas, Vaishnavi Sapphire",
+        "categories": [
+            "Hotel & Lodging",
+            "Movie Theater"
+        ],
+        "longitude": 77.548717990301,
+        "likes": 711,
+        "latitude": 13.024664490702,
+        "checkins": 35761
+    },
+    "274964215846940": {
+        "name": "Dominos",
+        "categories": [
+            "Pizza Place"
+        ],
+        "longitude": 77.57979542,
+        "likes": 163,
+        "latitude": 12.99298942,
+        "checkins": 1917
+    },
+    "216319265085460": {
+        "name": "Hotel Bangalore International",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.579222978182,
+        "likes": 1202,
+        "latitude": 12.985174305,
+        "checkins": 3766
+    },
+    "241654732609997": {
+        "name": "Mg Road Cafe Coffee Day",
+        "categories": [
+            "Cafe"
+        ],
+        "longitude": 77.579822150957,
+        "likes": 47,
+        "latitude": 12.984566712705,
+        "checkins": 681
+    },
+    "132118146823281": {
+        "name": "UB City",
+        "categories": [
+            "Science & Engineering",
+            "Landmark & Historical Place"
+        ],
+        "longitude": 77.5949,
+        "likes": 50923,
+        "latitude": 12.9726,
+        "checkins": 166427
+    },
+    "111044038945926": {
+        "name": "Visvesvaraya Industrial and Technological Museum",
+        "categories": [
+            "Tour Agency"
+        ],
+        "longitude": 77.5964,
+        "likes": 2519,
+        "latitude": 12.9751,
+        "checkins": 16304
+    },
+    "222837641063032": {
+        "name": "Chalukya",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.587912643286,
+        "likes": 331,
+        "latitude": 12.984595540946,
+        "checkins": 4822
+    },
+    "868464509903850": {
+        "name": "Church Street Social",
+        "categories": [
+            "Lounge",
+            "Restaurant",
+            "Cafe"
+        ],
+        "longitude": 77.60265827179,
+        "likes": 8033,
+        "latitude": 12.975630770107,
+        "checkins": 48713
+    },
+    "546828832159733": {
+        "name": "Bangalore Electronic City",
+        "categories": [
+            "Workplace & Office"
+        ],
+        "longitude": 77.5833,
+        "likes": 5,
+        "latitude": 12.9833,
+        "checkins": 1309
+    },
+    "282218238545484": {
+        "name": "Office",
+        "categories": [
+            "Automotive",
+            "Commercial & Industrial"
+        ],
+        "longitude": 77.577172,
+        "likes": 12,
+        "latitude": 12.987404571429,
+        "checkins": 1425
+    },
+    "280936978737438": {
+        "name": "Etv - Bangalore",
+        "categories": [
+            "Cable & Satellite Company",
+            "Arts & Entertainment"
+        ],
+        "longitude": 77.577208383081,
+        "likes": 708,
+        "latitude": 12.984737665405,
+        "checkins": 210
+    },
+    "252179968154013": {
+        "name": "Kumarapark, Seshadripuram, Bangalore",
+        "categories": [
+            "Cafe",
+            "Restaurant"
+        ],
+        "longitude": 77.578508026531,
+        "likes": 69,
+        "latitude": 12.992629483509,
+        "checkins": 1363
+    },
+    "778973618848857": {
+        "name": "Mantri Mall- Banglore",
+        "categories": [
+            "Broadcasting & Media Production Company"
+        ],
+        "longitude": 77.571077048099,
+        "likes": 7637,
+        "latitude": 12.991586139711,
+        "checkins": 79037
+    },
+    "199178790208511": {
+        "name": "Banglore Race Course",
+        "categories": [
+            "Recreation & Fitness Venue"
+        ],
+        "longitude": 77.581566895862,
+        "likes": 545,
+        "latitude": 12.983912697931,
+        "checkins": 3756
+    },
+    "105816862832718": {
+        "name": "Anjan Theatre",
+        "categories": [
+            "Movie Theater"
+        ],
+        "longitude": 77.558952926946,
+        "likes": 553,
+        "latitude": 12.975319689426,
+        "checkins": 9577
+    },
+    "597353220392211": {
+        "name": "Challenging Star Darshan",
+        "categories": [
+            "Movie Theater"
+        ],
+        "longitude": 77.5833,
+        "likes": 2448,
+        "latitude": 12.9833,
+        "checkins": 2302
+    },
+    "461133054093190": {
+        "name": "Hammered",
+        "categories": [
+            "Lounge"
+        ],
+        "longitude": 77.595056891441,
+        "likes": 10185,
+        "latitude": 12.986660426178,
+        "checkins": 10543
+    },
+    "124946610990990": {
+        "name": "The Taj West End",
+        "categories": [
+            "Restaurant",
+            "Hotel",
+            "Event"
+        ],
+        "longitude": 77.584673291016,
+        "likes": 13621,
+        "latitude": 12.985160904658,
+        "checkins": 67992
+    },
+    "343491702372942": {
+        "name": "Le M\u00e9ridien Bangalore",
+        "categories": [
+            "Hotel",
+            "Coffee Shop"
+        ],
+        "longitude": 77.586380628406,
+        "likes": 9259,
+        "latitude": 12.990197262582,
+        "checkins": 25253
+    },
+    "119543104788267": {
+        "name": "Chowdiah Memorial Hall",
+        "categories": [
+            "City Hall"
+        ],
+        "longitude": 77.57564571424,
+        "likes": 393,
+        "latitude": 13.0065126681,
+        "checkins": 12940
+    },
+    "565868856803847": {
+        "name": "Hebbal Kempapura, near Esteem Mall, Airport Road",
+        "categories": [
+            "Safety & First Aid Service",
+            "Doctor"
+        ],
+        "longitude": 77.5833,
+        "likes": 172,
+        "latitude": 12.9833,
+        "checkins": 7874
+    },
+    "158526884248204": {
+        "name": "Karnataka Chitrakala Parishath",
+        "categories": [
+            "Art School"
+        ],
+        "longitude": 77.58073,
+        "likes": 7390,
+        "latitude": 12.98809,
+        "checkins": 16557
+    },
+    "617618945064613": {
+        "name": "INOX Leisure Ltd.",
+        "categories": [
+            "Performance Art Theatre",
+            "Movie Theater"
+        ],
+        "longitude": 77.570335,
+        "likes": 12,
+        "latitude": 12.992295,
+        "checkins": 166
+    },
+    "368440673258676": {
+        "name": "Bangalore City",
+        "categories": [
+            "Public Services & Government",
+            "Arts & Entertainment",
+            "Restaurant"
+        ],
+        "longitude": 77.5833,
+        "likes": 7741,
+        "latitude": 12.9833,
+        "checkins": 183209
+    },
+    "289973667746329": {
+        "name": "Forum Mall, Bangalore",
+        "categories": [
+            "Shopping Mall"
+        ],
+        "longitude": 77.589084288459,
+        "likes": 2889,
+        "latitude": 12.967619788909,
+        "checkins": 39813
+    },
+    "102516599802825": {
+        "name": "Basaveshwaranagar",
+        "categories": [
+            "Landmark & Historical Place"
+        ],
+        "longitude": 77.538611111111,
+        "likes": 1621,
+        "latitude": 12.986666666667,
+        "checkins": 32006
+    },
+    "206438139381756": {
+        "name": "Hotel Janardhana",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.579390405925,
+        "likes": 93,
+        "latitude": 12.98588824861,
+        "checkins": 1912
+    },
+    "134006806628953": {
+        "name": "Sheshadripuram College",
+        "categories": [
+            "School",
+            "University"
+        ],
+        "longitude": 77.57559,
+        "likes": 4488,
+        "latitude": 12.98872,
+        "checkins": 2540
+    },
+    "292336350791080": {
+        "name": "Himalaya Personal Care",
+        "categories": [
+            "Medical & Health"
+        ],
+        "longitude": 77.5833,
+        "likes": 258972,
+        "latitude": 12.9833,
+        "checkins": 4320
+    },
+    "134086866612895": {
+        "name": "Sindhi High School",
+        "categories": [
+            "High School"
+        ],
+        "longitude": 77.58098669,
+        "likes": 612,
+        "latitude": 12.988271995,
+        "checkins": 438
+    },
+    "1125473267597703": {
+        "name": "Savi Sagar",
+        "categories": [
+            "Restaurant"
+        ],
+        "longitude": 77.5762909,
+        "likes": 9,
+        "latitude": 12.988532,
+        "checkins": 106
+    },
+    "361111467323063": {
+        "name": "Nandhi Hills",
+        "categories": [
+            "Park",
+            "Tour Agency",
+            "Hotel & Lodging"
+        ],
+        "longitude": 77.5833,
+        "likes": 21886,
+        "latitude": 12.9833,
+        "checkins": 138238
+    },
+    "585633734848710": {
+        "name": "Mysore Road, Bangalore",
+        "categories": [
+            "Street",
+            "Highway",
+            "Tour Agency"
+        ],
+        "longitude": 77.576888509959,
+        "likes": 3781,
+        "latitude": 12.964310745021,
+        "checkins": 26097
+    },
+    "589354767862185": {
+        "name": "Chitra Kala Parishat, Kumarakrupa Road, Bengaluru",
+        "categories": [
+            "Art School",
+            "Commercial & Industrial",
+            "Performance & Sports Venue"
+        ],
+        "longitude": 77.581050644,
+        "likes": 416,
+        "latitude": 12.989066622,
+        "checkins": 1426
+    },
+    "200534013310180": {
+        "name": "Anand Rao Circle",
+        "categories": [
+            "Transportation Hub"
+        ],
+        "longitude": 77.575079395557,
+        "likes": 367,
+        "latitude": 12.980541580758,
+        "checkins": 8031
+    },
+    "198447420177444": {
+        "name": "Banjara The Restaurant",
+        "categories": [
+            "Family Style Restaurant"
+        ],
+        "longitude": 77.550232899275,
+        "likes": 32,
+        "latitude": 12.972966108473,
+        "checkins": 177
+    },
+    "302254453159236": {
+        "name": "Kumara Park West, Banglore",
+        "categories": [
+            "Food & Beverage"
+        ],
+        "longitude": 77.577338893181,
+        "likes": 232,
+        "latitude": 12.988847429219,
+        "checkins": 3170
+    },
+    "706505922697826": {
+        "name": "Bootlegger",
+        "categories": [
+            "Pub",
+            "Restaurant"
+        ],
+        "longitude": 77.597572286798,
+        "likes": 8379,
+        "latitude": 12.971133384374,
+        "checkins": 18703
+    },
+    "563121713757721": {
+        "name": "Karnataka Film Chamber",
+        "categories": [
+            "Arts & Entertainment"
+        ],
+        "longitude": 77.58109276,
+        "likes": 290,
+        "latitude": 12.98523301,
+        "checkins": 415
+    },
+    "188910511150060": {
+        "name": "Rex Theatre",
+        "categories": [
+            "Performance Art Theatre"
+        ],
+        "longitude": 77.606724141233,
+        "likes": 1657,
+        "latitude": 12.972577273541,
+        "checkins": 47059
+    },
+    "212959798719512": {
+        "name": "MG Road banglore",
+        "categories": [
+            "Shopping District"
+        ],
+        "longitude": 77.6132854999,
+        "likes": 1585,
+        "latitude": 13.0009247798,
+        "checkins": 25898
+    },
+    "550793158288790": {
+        "name": "Electronic city, bangalore",
+        "categories": [
+            "Internet Service Provider",
+            "Business Service"
+        ],
+        "longitude": 77.5833,
+        "likes": 1546,
+        "latitude": 12.9833,
+        "checkins": 27971
+    },
+    "185004141527197": {
+        "name": "The Solitaire Hotel - Bangalore",
+        "categories": [
+            "Buffet Restaurant",
+            "Hotel",
+            "Travel Company"
+        ],
+        "longitude": 77.578440242398,
+        "likes": 3103,
+        "latitude": 12.984727393866,
+        "checkins": 12940
+    },
+    "753821981375704": {
+        "name": "Global Swim Center 2 Swastik Seshadripuram",
+        "categories": [
+            "Water Park"
+        ],
+        "longitude": 77.57644082,
+        "likes": 9,
+        "latitude": 12.98934347,
+        "checkins": 466
+    },
+    "483140165107825": {
+        "name": "Bangalore Outskirts...",
+        "categories": [
+            "Local Business"
+        ],
+        "longitude": 77.57849441,
+        "likes": 66,
+        "latitude": 12.98388421,
+        "checkins": 2656
+    },
+    "391498787574736": {
+        "name": "Gandhinagar, Bangalore,  Karnataka",
+        "categories": [
+            "Apartment & Condo Building"
+        ],
+        "longitude": 77.579727217105,
+        "likes": 89,
+        "latitude": 12.976390857562,
+        "checkins": 4801
+    },
+    "304352503020779": {
+        "name": "RR NAGAR Bangalore",
+        "categories": [
+            "Pet Service"
+        ],
+        "longitude": 77.5833,
+        "likes": 795,
+        "latitude": 12.9833,
+        "checkins": 3890
+    },
+    "268821446576738": {
+        "name": "Chinnaswamy Cricket Stadium Banglore",
+        "categories": [
+            "Stadium, Arena & Sports Venue",
+            "Recreation & Fitness"
+        ],
+        "longitude": 77.599251794794,
+        "likes": 1098,
+        "latitude": 12.978737243017,
+        "checkins": 15134
+    },
+    "1130379100389101": {
+        "name": "PVR Arena Mall",
+        "categories": [
+            "Shopping Mall"
+        ],
+        "longitude": 77.5833,
+        "likes": 9,
+        "latitude": 12.9833,
+        "checkins": 1225
+    },
+    "247026702298037": {
+        "name": "Farzi Caf\u00e9, UB City",
+        "categories": [
+            "Indian Restaurant",
+            "Gastropub"
+        ],
+        "longitude": 77.59477,
+        "likes": 13341,
+        "latitude": 12.96843,
+        "checkins": 16513
+    },
+    "205825709494921": {
+        "name": "Sutra Lounge @ The Lalit Ashok",
+        "categories": [
+            "Lounge"
+        ],
+        "longitude": 77.582523157549,
+        "likes": 3103,
+        "latitude": 12.991923982221,
+        "checkins": 10711
+    },
+    "113583795390400": {
+        "name": "1522 The Pub",
+        "categories": [
+            "Pub",
+            "Arts & Entertainment"
+        ],
+        "longitude": 77.557176279658,
+        "likes": 6888,
+        "latitude": 13.007874452019,
+        "checkins": 24084
+    },
+    "156732311117217": {
+        "name": "Taj Hotel Bangalore",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.585256083333,
+        "likes": 859,
+        "latitude": 12.98539995,
+        "checkins": 9394
+    },
+    "223874871073072": {
+        "name": "Chickpet",
+        "categories": [
+            "Landmark & Historical Place"
+        ],
+        "longitude": 77.57721,
+        "likes": 340,
+        "latitude": 12.97186,
+        "checkins": 16662
+    },
+    "618451308295171": {
+        "name": "ChitraSanthe 2017",
+        "categories": [
+            "Art Gallery"
+        ],
+        "longitude": 77.57996,
+        "likes": 1125,
+        "latitude": 12.98685,
+        "checkins": 916
+    },
+    "150470698339480": {
+        "name": "Bangalore Turf Club",
+        "categories": [
+            "Stadium, Arena & Sports Venue"
+        ],
+        "longitude": 77.583423716797,
+        "likes": 2131,
+        "latitude": 12.983492706828,
+        "checkins": 7413
+    },
+    "1017212811695724": {
+        "name": "Hype, Shangri La",
+        "categories": [
+            "Italian Restaurant"
+        ],
+        "longitude": 77.588448147872,
+        "likes": 304,
+        "latitude": 12.992456024681,
+        "checkins": 1456
+    },
+    "579980448707423": {
+        "name": "Richie Rich, Sheshadripuram",
+        "categories": [
+            "Local Business"
+        ],
+        "longitude": 77.57993009,
+        "likes": 37,
+        "latitude": 12.98675196,
+        "checkins": 606
+    },
+    "135451939823149": {
+        "name": "Bangalore City railway station",
+        "categories": [
+            "Railway Station"
+        ],
+        "longitude": 77.569444,
+        "likes": 16471,
+        "latitude": 12.978333,
+        "checkins": 254106
+    },
+    "387377348024380": {
+        "name": "Jnana Jyothi Auditorium",
+        "categories": [
+            "Convention Center"
+        ],
+        "longitude": 77.583578595319,
+        "likes": 365,
+        "latitude": 12.975942812711,
+        "checkins": 4131
+    },
+    "727257017323188": {
+        "name": "Richie Rich Icecreams",
+        "categories": [
+            "Ice Cream Shop",
+            "Restaurant"
+        ],
+        "longitude": 77.58,
+        "likes": 3945,
+        "latitude": 12.98663,
+        "checkins": 7094
+    },
+    "104283119666750": {
+        "name": "The Citrine",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.574377010358,
+        "likes": 707,
+        "latitude": 12.987165339925,
+        "checkins": 2170
+    },
+    "748949721842366": {
+        "name": "PVR Cinemas, Orion Mall",
+        "categories": [
+            "Asian Restaurant"
+        ],
+        "longitude": 77.5551622,
+        "likes": 6841,
+        "latitude": 13.011114,
+        "checkins": 132191
+    },
+    "1092009727584681": {
+        "name": "Made in Punjab, UB City",
+        "categories": [
+            "Restaurant"
+        ],
+        "longitude": 77.5833,
+        "likes": 8,
+        "latitude": 12.9833,
+        "checkins": 322
+    },
+    "477059539026449": {
+        "name": "Karanataka",
+        "categories": [
+            "Medical & Health",
+            "Tour Agency"
+        ],
+        "longitude": 77.5833,
+        "likes": 143,
+        "latitude": 12.9833,
+        "checkins": 2900
+    },
+    "250837128406901": {
+        "name": "Lalit Ashok",
+        "categories": [
+            "Diner"
+        ],
+        "longitude": 77.582250116308,
+        "likes": 275,
+        "latitude": 12.992207552396,
+        "checkins": 6455
+    },
+    "194391807251843": {
+        "name": "Matteo Cafe",
+        "categories": [
+            "Italian Restaurant"
+        ],
+        "longitude": 77.607162493733,
+        "likes": 7056,
+        "latitude": 12.97454727857,
+        "checkins": 41204
+    },
+    "621932047943178": {
+        "name": "Blue FROG Bangalore",
+        "categories": [
+            "Restaurant",
+            "Dance & Night Club"
+        ],
+        "longitude": 77.60606098429,
+        "likes": 14931,
+        "latitude": 12.974585496171,
+        "checkins": 17812
+    },
+    "249684405077784": {
+        "name": "Blue Bar, Taj Westend, Bangalore",
+        "categories": [
+            "Pub"
+        ],
+        "longitude": 77.584036,
+        "likes": 676,
+        "latitude": 12.984911,
+        "checkins": 4665
+    },
+    "124306677641674": {
+        "name": "Goldfinch Hotels",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.579556587584,
+        "likes": 4479,
+        "latitude": 12.985341547206,
+        "checkins": 12104
+    },
+    "380801411948716": {
+        "name": "Taj West End Race Course Road",
+        "categories": [
+            "Golf Course",
+            "Hotel",
+            "Restaurant"
+        ],
+        "longitude": 77.58451781,
+        "likes": 62,
+        "latitude": 12.986143666667,
+        "checkins": 1083
+    },
+    "223935621058618": {
+        "name": "Snow City, Bengaluru",
+        "categories": [
+            "Recreation Center"
+        ],
+        "longitude": 77.59264065328,
+        "likes": 5754,
+        "latitude": 13.006184111685,
+        "checkins": 72654
+    },
+    "200381269983124": {
+        "name": "Corner House",
+        "categories": [
+            "Ice Cream Shop"
+        ],
+        "longitude": 77.57716699297,
+        "likes": 3634,
+        "latitude": 12.9883253485,
+        "checkins": 9048
+    },
+    "130905010309061": {
+        "name": "Freedom Park",
+        "categories": [
+            "Landmark & Historical Place"
+        ],
+        "longitude": 77.582148418884,
+        "likes": 932,
+        "latitude": 12.978622610687,
+        "checkins": 9942
+    },
+    "1770766679843781": {
+        "name": "London Curry House",
+        "categories": [
+            "Restaurant"
+        ],
+        "longitude": 77.5833,
+        "likes": 95,
+        "latitude": 12.9833,
+        "checkins": 592
+    },
+    "353715491384135": {
+        "name": "Bandipur National Forest",
+        "categories": [
+            "Wildlife Sanctuary"
+        ],
+        "longitude": 77.5426947205,
+        "likes": 2975,
+        "latitude": 12.9641936745,
+        "checkins": 11267
+    },
+    "648326345336726": {
+        "name": "The Oberoi Udaivilas, Udaipur",
+        "categories": [
+            "Hotel"
+        ],
+        "longitude": 77.585299015045,
+        "likes": 779,
+        "latitude": 12.987371325605,
+        "checkins": 174
+    },
+    "400792693438058": {
+        "name": "High Ultra Lounge World Trade Centre B",
+        "categories": [
+            "Restaurant"
+        ],
+        "longitude": 77.555953133535,
+        "likes": 1836,
+        "latitude": 13.012057451017,
+        "checkins": 15750
+    },
+    "204012299629369": {
+        "name": "Kabab Studio",
+        "categories": [
+            "Indian Restaurant"
+        ],
+        "longitude": 77.57962541097,
+        "likes": 593,
+        "latitude": 12.985382927719,
+        "checkins": 4095
+    },
+    "633355810014470": {
+        "name": "UB City Mall, Vittal Mallya Road,Bangalore",
+        "categories": [
+            "Shopping Mall"
+        ],
+        "longitude": 77.596038219984,
+        "likes": 4079,
+        "latitude": 12.97179277013,
+        "checkins": 19945
+    }
+}
