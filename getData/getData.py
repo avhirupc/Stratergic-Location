@@ -15,9 +15,7 @@ def searchPlaces(url):
     res = s.get(url)
     return str(res.text)
 
-def getPlaces():
-    center = '12.985966,77.580084'
-    dist = '40000'
+def getPlaces(center,dist):
     url = 'https://graph.facebook.com/v2.8/search?access_token='+token+'&type=place&center='+center+'&debug=all&distance='+dist+'&format=json&method=get&pretty=1&suppress_http_code=1'
     visit = url
     after = True
@@ -60,13 +58,16 @@ def exportData(file):
     file.write(jdata)
     file.close()
 
-def getData():
-    getPlaces()
+def getData(center,dist):
+    getPlaces(center,dist)
     for placeID in placeIDS:
         getPlaceDetails(placeID)
     exportData('cityName')
 
-getData()
+
+center = '12.985966,77.580084'
+dist = '40000'
+getData(center,dist)
 
 
 
